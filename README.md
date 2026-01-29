@@ -1,8 +1,6 @@
 # Hi there, I'm Renato! 👋
 
-### Frontend Engineer
-
-I am a Software Engineer with a background in **Design**, which allows me to bridge the gap between visual aesthetics and robust, scalable code. I specialize in building high-performance web applications and seamless user experiences.
+I am a Frontend Engineer with a background in **Design**, which allows me to bridge the gap between visual aesthetics and robust, scalable code. I specialize in building high-performance web applications and seamless user experiences.
 
 With 13 years of experience in JavaScript, TypeScript, Kotlin, PHP, Node.js, Ruby, and Python, developing web applications for the logistics, education, and finance sectors. Based on building and maintaining applications from inception to end, consistently delivering exceptional user experiences through thoughtfully crafted tools and features to thousands of end users.
  
