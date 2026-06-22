@@ -1,6 +1,6 @@
 # Hi there, I'm Renato! 👋
 
-I am a Product and Frontend Engineer with 15 years of experience in JavaScript, TypeScript, Kotlin, PHP, Node.js, Ruby, and Python, developing web applications for the logistics, education, and finance sectors. Based on building and maintaining applications from inception to end, consistently delivering exceptional user experiences through thoughtfully crafted tools and features to thousands of end users. 
+I am a Product and Frontend Engineer with 15 years of experience in JavaScript, TypeScript, Kotlin, PHP, Node.js, Ruby, and Python, developing web applications for the logistics, education, and financial sectors. Based on building and maintaining applications from inception to end, consistently delivering exceptional user experiences through thoughtfully crafted tools and features to thousands of end users. 
 
 With a background in **Design**, which allows me to bridge the gap between visual aesthetics and robust, scalable code. I specialize in building high-performance web applications and seamless user experiences.
  
